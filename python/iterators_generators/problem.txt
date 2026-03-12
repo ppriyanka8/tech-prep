@@ -1,4 +1,6 @@
 Process a large log file and count how many lines contain "ERROR".
+
 You’ll implement it two ways:
 	1.	Using a custom iterator class
 	2.	Using a generator
+
